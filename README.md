@@ -1,5 +1,5 @@
 
-🔹 Project Description: Token-Based Canister Deployment on the Internet Computer
+#🔹 Project Description: Token-Based Canister Deployment on the Internet Computer
 
 This project demonstrates a complete workflow for deploying a token-enabled canister on the Internet Computer (IC) network using the DFINITY SDK (dfx). It includes identity and principal management, token balance queries, token transfers, and live deployment of canisters with frontend hosting.
 
