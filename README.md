@@ -1,3 +1,20 @@
+
+🔹 Project Description: Token-Based Canister Deployment on the Internet Computer
+
+This project demonstrates a complete workflow for deploying a token-enabled canister on the Internet Computer (IC) network using the DFINITY SDK (dfx). It includes identity and principal management, token balance queries, token transfers, and live deployment of canisters with frontend hosting.
+
+Key functionality includes:
+
+->Retrieving and managing principal IDs for both users and canisters
+
+->Querying token balances using the balanceOf method
+
+->Transferring tokens to canisters for operational funding
+
+->Deploying both backend and frontend canisters to the Internet Computer mainnet
+
+->Generating a live, publicly accessible URL for the deployed frontend (.raw.ic0.app domain)
+
 # Check your Balance
 
 1. Find out your principal id:
